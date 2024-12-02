@@ -35,7 +35,7 @@ Programs for calculators, guessing games, and conversions.
 ## **🚀 Quick Start**
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/SachinRamesh024/CPP-Codes.git
    ```
 2. Pick a folder and start coding.  
 
